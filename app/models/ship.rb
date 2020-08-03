@@ -16,9 +16,7 @@ class Ship
   end
 
   def self.clear
-
     @ll.clear
-
   end
 
 end
